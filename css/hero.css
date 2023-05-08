@@ -158,7 +158,10 @@
 .shipping span {
     color: var(--sub-text-color);
 }
-
+.shipping__block {
+    max-width: 60rem;
+    margin: 0 auto;
+}
 
 @media screen and (min-width: 1440px)  {
     .return {
